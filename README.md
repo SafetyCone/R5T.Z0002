@@ -1,0 +1,2 @@
+# R5T.Z0002
+Common values for Roslyn syntax values.
